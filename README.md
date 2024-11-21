@@ -33,11 +33,24 @@ Here are some ideas to get you started:
 --- 
 ### 🔥My Stats :
 
-[![GitHub Streak](http://github-readme-streak-stats.herokuapp.com?user=Mautsen&theme=dark&background=000000)](https://git.io/streak-stats)
+<div style="display: flex; justify-content: space-between;">
+  <div>
+    <a href="https://git.io/streak-stats">
+      <img src="http://github-readme-streak-stats.herokuapp.com?user=Mautsen&theme=dark&background=000000" alt="GitHub Streak" />
+    </a>
+  </div>
+  
+  <div>
+    <a href="https://github.com/Mautsen/github-readme-stats">
+      <img src="https://github-readme-stats.vercel.app/api?username=Mautsen&show_icons=true&hide=prs&bg_color=00000000&include_all_commits=true&include_all_prs=true" alt="Mautsen's GitHub stats" />
+    </a>
+  </div>
+</div>
 
+<div>
+  <a href="https://github.com/Mautsen/github-readme-stats">
+    <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=Mautsen&show_icons=true&bg_color=00000000" alt="Top Langs" />
+  </a>
+</div>
 
-
-[![Mautsen's GitHub stats](https://github-readme-stats.vercel.app/api?username=Mautsen&show_icons=true&hide=prs&bg_color=00000000&include_all_commits=true&include_all_prs=true)](https://github.com/Mautsen/github-readme-stats)
-
-[![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=Mautsen&show_icons=true&bg_color=00000000)](https://github.com/Mautsen/github-readme-stats)
 
